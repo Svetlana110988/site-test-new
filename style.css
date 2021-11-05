@@ -1,0 +1,19 @@
+.splide__slide_1{
+    height: 300px;
+    width: 100%;
+    background: coral;
+}
+.splide__slide_2{
+    height: 300px;
+    width: 100%;
+    background: #bf50ff;
+}
+.splide__slide_3{
+    height: 300px;
+    width: 100%;
+    background: #50ff93;
+}
+.splide__pagination__page{
+    border-radius: 0%!important;
+    background-color: darkblue!important;
+}
